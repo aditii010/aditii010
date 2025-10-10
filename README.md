@@ -1,4 +1,4 @@
-![logo](https://github.com/aditii010/aditii010/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner.png?raw=true)
+![logo](https://github.com/aditii010/aditii010/blob/main/Black%20Gold%20Minimalist%20Elegant%20Business%20LinkedIn%20Banner%20(1).png?raw=true)
 <h1 align="center">Hi 👋, I'm Aditi Sikarwar</h1>
 <h3 align="center">Building intelligent systems with AI, Machine Learning, Deep Learning & strong algorithmic foundations</h3>
 <img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
